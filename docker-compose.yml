@@ -13,7 +13,7 @@ services:
 
   php-fpm:
     build:
-      context: ./Docker/php-fpm
+      context: .
     volumes:
       - .:/var/www
       - ./Docker/app/php.ini:/usr/local/etc/php/custom.d
