@@ -1,6 +1,6 @@
 # vk-test
 
-Demo: https://php-project-lvl-3.herokuapp.com/
+API Demo: [vk-test-production.up.railway.app](https://vk-test-production.up.railway.app/)
 
 ## Requirements
 
