@@ -1,2 +1,4 @@
 /vendor/
 /.idea/
+Docker/nginx/logs/access.log
+Docker/nginx/logs/error.log
