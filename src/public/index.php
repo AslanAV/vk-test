@@ -19,7 +19,7 @@ if (file_exists($autoloadPath1)) {
 
 $app = new Application();
 
-$app->post('/event', function () {
+$app->post('/app/event', function () {
     $request = new EventRequest();
     return EventController::create($request);
 });
