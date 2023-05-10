@@ -1,6 +1,8 @@
 # vk-test
 
-API Demo: [http://f0816583.xsph.ru](http://f0816583.xsph.ru)
+API Demo для создания события: [http://f0816583.xsph.ru/event](http://f0816583.xsph.ru/event)
+
+API Demo для фильтрации и получения счетчиков: [http://f0816583.xsph.ru/get-events](http://f0816583.xsph.ru/get-events)
 
 ## Requirements
 
