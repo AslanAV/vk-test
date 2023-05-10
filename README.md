@@ -1,6 +1,6 @@
 # vk-test
 
-API Demo: [vk-test-production.up.railway.app](https://vk-test-production.up.railway.app/)
+API Demo: [http://f0816583.xsph.ru](http://f0816583.xsph.ru)
 
 ## Requirements
 
