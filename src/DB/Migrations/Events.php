@@ -4,7 +4,7 @@ namespace App\DB\Migrations;
 
 class Events extends Migration
 {
-    protected static string $nameDB = '../DB/db.sqlite';
+    protected static string $nameDB = 'db.sqlite';
     protected static string $nameTable = 'events';
 
     protected static $sql = "CREATE TABLE IF NOT EXISTS events (
