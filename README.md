@@ -15,6 +15,12 @@ API Demo: [http://f0816583.xsph.ru](http://f0816583.xsph.ru)
 make setup
 ```
 
+```
+В файле `src/DB/Migrations/Events.php` установить значение `'src/DB/db.sqlite'`
+свойства `$nameDB` класса `Events` 
+```
+
+
 ## Run
 
 ```bash
@@ -26,6 +32,11 @@ ___
 
 ```bash
 make compose-setup
+```
+
+```
+В файле `src/DB/Migrations/Events.php` установить значение `'../DB/db.sqlite'`
+свойства `$nameDB` класса `Events` 
 ```
 
 ## Run with Docker
