@@ -21,11 +21,11 @@ Class GetEventsRequest extends Request
             return false;
         }
 
-        if (!array_key_exists('start', $data['period'])) {
+        if (!array_key_exists('start', $data['filter']['period'])) {
             return false;
         }
 
-        if (!array_key_exists('end', $data['period'])) {
+        if (!array_key_exists('end', $data['filter']['period'])) {
             return false;
         }
 
